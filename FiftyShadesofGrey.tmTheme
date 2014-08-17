@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>name</key>
+	<string>Solarized iPlastic</string>
+	<key>settings</key>
+	<array>
+		<dict>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#EEEEEE</string>
+				<key>caret</key>
+				<string>#000000</string>
+				<key>foreground</key>
+				<string>#CCCCCC</string>
+				<key>invisibles</key>
+				<string>#000000</string>
+				<key>lineHighlight</key>
+				<string>#DDDDDD</string>
+				<key>gutterForeground</key>
+				<string>#CCCCCC</string>
+				<key>selection</key>
+				<string>#AAEEEB</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>High</string>
+			<key>scope</key>
+			<string>string, constant, comment, text</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#666666</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Mid</string>
+			<key>scope</key>
+			<string>source, entity</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#AAAAAA</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Low</string>
+			<key>scope</key>
+			<string>storage, punctuation, comment.unbuffered.block.jade</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#CCCCCC</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
